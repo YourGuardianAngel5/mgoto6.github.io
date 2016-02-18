@@ -28,6 +28,6 @@ th {
 	background-color:#FF8C00;
    }
 img.resize{
-   max-width:20%;
-   max-height:20%;
+   width:200px;
+   height:400px;
 }
